@@ -1,0 +1,6 @@
+MyFeatureAdded01
+<<<<<<< HEAD
+MyFeatureAdded02
+=======
+MyFeatureAdded03
+>>>>>>> develop
